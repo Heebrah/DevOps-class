@@ -2,20 +2,21 @@
 
 <em>The pictures are the shut pics of the tools already install on my computer for the project</em>
 
-- aws
-https://imgur.com/ZqEzqbu
+ - aws
+![aws account setup](/image\aws.png "San Juan Mountains")
 
 - git
-https://imgur.com/Xva1ujM
+![aws account setup](/image\git-pics.png "San Juan Mountains")
 
 - github
-https://imgur.com/XKIo2rQ
+![aws account setup](/image\github-pics.png "San Juan Mountains")
 
 - ubuntu
-https://imgur.com/rq9NcsU
+![aws account setup](/image\ubuntu-os.png "San Juan Mountains")
 
 - virtual-box
-https://imgur.com/ouKDfjZ
+![aws account setup](/image\virtual-box.png "San Juan Mountains")
 
 - vscode
-https://imgur.com/qJww1PU
+![aws account setup](/image\vscode-pics.png "San Juan Mountains") 
+
