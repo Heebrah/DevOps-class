@@ -2,7 +2,7 @@
 
 The pictures are the shut pics of the tools already install on my computer for the project
 
-- vscode
+<!-- - vscode
 ![aws account setup](image/vscode-pics.jpg "San Juan Mountains") 
 
 - git
@@ -18,10 +18,19 @@ The pictures are the shut pics of the tools already install on my computer for t
 ![aws account setup](image/github-pics.png "San Juan Mountains")
 
  - aws
-![aws account setup](image/aws.png "San Juan Mountains")
+![aws account setup](image/aws.png "San Juan Mountains") -->
 
+https://imgur.com/dSUGdX4
 
+https://imgur.com/D0JyLlS
 
+https://imgur.com/AufdhsT
+
+https://imgur.com/x8a26fK
+
+https://imgur.com/undefined
+
+https://imgur.com/ZqEzqbu
 
 
 
