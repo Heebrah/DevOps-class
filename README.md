@@ -30,7 +30,7 @@ https://imgur.com/Xva1ujM
 https://imgur.com/XKIo2rQ
 
 - ubuntu
-https://imgur.com/phNjTWm
+https://imgur.com/rq9NcsU
 
 - virtual-box
 https://imgur.com/ouKDfjZ
