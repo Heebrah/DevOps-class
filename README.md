@@ -15,7 +15,7 @@
 ![aws account setup](image/Ubuntu.jpg "San Juan Mountains")
 
 - virtual-box
-![aws account setup](image/virtual-box.jpg "San Juan Mountains")
+![aws account setup](image/virtualBox.jpg "San Juan Mountains")
 
 - vscode
 ![aws account setup](image/vscode-pics.jpg "San Juan Mountains") 
