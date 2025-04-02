@@ -1,6 +1,6 @@
 # Required tools for the project
 
-<em>The pictures are the shut pics of the tools already install on my computer for the project</em>
+The pictures are the shut pics of the tools already install on my computer for the project
 
 - vscode
 ![aws account setup](image/vscode-pics.jpg "San Juan Mountains") 
