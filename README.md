@@ -20,16 +20,22 @@ The pictures are the shut pics of the tools already install on my computer for t
  - aws
 ![aws account setup](image/aws.png "San Juan Mountains") -->
 
+-  vscode
 https://imgur.com/dSUGdX4
 
+- git
 https://imgur.com/D0JyLlS
 
+- virtual box
 https://imgur.com/AufdhsT
 
+- ubuntu
 https://imgur.com/x8a26fK
 
+- github
 https://imgur.com/undefined
 
+- Aws
 https://imgur.com/ZqEzqbu
 
 
