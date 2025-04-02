@@ -2,20 +2,7 @@
 
 <em>The pictures are the shut pics of the tools already install on my computer for the project</em>
 - aws
-![aws account setup](/image\aws.png "San Juan Mountains")
+![aws account setup](https://imgur.com/a/5heRTfR "San Juan Mountains")
 
-- git
-![aws account setup](/image\git-pics.png "San Juan Mountains")
 
-- github
-![aws account setup](/image\github-pics.png "San Juan Mountains")
-
-- ubuntu
-![aws account setup](/image\ubuntu-os.png "San Juan Mountains")
-
-- virtual-box
-![aws account setup](/image\virtual-box.png "San Juan Mountains")
-
-- vscode
-![aws account setup](/image\vscode-pics.png "San Juan Mountains")
 
