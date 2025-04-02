@@ -12,7 +12,7 @@
 ![aws account setup](image/github-pics.png "San Juan Mountains")
 
 - ubuntu
-![aws account setup](image/ubuntu-os.png "San Juan Mountains")
+![aws account setup](image/Ubuntu.jpg "San Juan Mountains")
 
 - virtual-box
 ![aws account setup](image/virtual-box.jpg "San Juan Mountains")
